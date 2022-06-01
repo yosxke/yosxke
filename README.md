@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yosxke
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning css, html, python
+- 🌱 I’m currently learning css, html, python, js
 - 📫 Contact me on Discord: Yosuke#0001
 <!---
 yosxke/yosxke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
